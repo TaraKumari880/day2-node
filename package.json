@@ -1,0 +1,13 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "manage the task file",
+  "main": "task-manager.js",
+
+  "scripts": {
+    "start":"node task-manager.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tara",
+  "license": "ISC"
+}
